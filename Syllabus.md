@@ -1,4 +1,6 @@
-# Search Engines Information Retrieval in Practice
+# CS494-spring-2015
+
+# Big Data Analysis and Visualization
 
 ## Course Overview
 
