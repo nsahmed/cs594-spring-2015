@@ -1,4 +1,4 @@
-# CS494-spring-2015
+# CS594-spring-2015
 
 # Big Data Analysis and Visualization
 
