@@ -62,3 +62,14 @@ Date: 12
 
 Submit two files to CSNS: `answer.txt` and `data_duck.py`.  You may hardcode the URL into the python code.
 
+---
+
+Below are some questions students asking.  Check back often as I will be updating this page throughout the day:
+
+| As mentioned, we also need to submit .py file. So, is there any specific application we need to install to code data_duck.py or we can use any available software? 
+
+You only need the default python install version 2.7.3. Do not use python 3.x 
+
+
+
+
