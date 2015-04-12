@@ -40,7 +40,7 @@ Consinder the following URL:
 https://github.com/csula/cs594-spring-2015/blob/master/Syllabus.md
 ```
 
-Write a python program that (1) downloads the contents of this, (2) detect dates, and (3) count the number of events for each of the following categories:
+Write a python program that (1) reads the contents of the above URL, (2) detect the presence of dates, and (3) count the number of events for each of the following categories:
 
 * Seasons (Spring, Summer, Fall, Winter)
 * Year (4 digit number between 2000 and 2015)
