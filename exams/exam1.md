@@ -68,7 +68,7 @@ Below are answers to students' questions on the exam.  Check back often as I wil
 
 > As mentioned, we also need to submit .py file. So, is there any specific application we need to install to code data_duck.py or we can use any available software? 
 
-You only need the default python install version 2.7.3. Do not use python 3.x 
+You only need the default python install version 2.7.x.  Do not use python 3.x 
 
 > Are we going to upload at csns or we are going to mail you?
 
