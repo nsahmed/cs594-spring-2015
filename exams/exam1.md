@@ -114,3 +114,7 @@ You should not need to install `pip` only use the default python installation.  
 > Does this "CS594-spring-2015​" is considered a valid Year 2015 and valid season Spring?
 
 I see `spring` (case insensitive) and I also see `2015`.  What do you see?
+
+> Can we use dateutil library to extract dates?
+
+You can if it's part of the default install.
