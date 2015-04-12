@@ -1,8 +1,8 @@
 # Exam 01
 
-This exam is consisted of two parts.  You must work on the exam alone -- do not discuss the exam with other students as the consequence is pretty severe.
+This exam is consisted of two parts.  You must work on the exam alone -- do not discuss the exam with anyone as the consequence of failure to comply will be pretty severe.  You have until 11:59 PM Sunday 12 April 2015 to complete the exam.
 
-## Theory Questions
+## Discussion Part
 
 Answer each of the following questions carefully.  It is not enough to "quote" the text.  Note that some questions require an example for full credit.
 
