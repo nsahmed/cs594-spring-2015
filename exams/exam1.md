@@ -70,4 +70,6 @@ Below are answers to students' questions on the exam.  Check back often as I wil
 
 You only need the default python install version 2.7.3. Do not use python 3.x 
 
+> Are we going to upload at csns or we are going to mail you?
 
+You will upload `answer.txt` and `data_duck.py` to CSNS.  Note that the file names as specified are `answer.txt` and `data_duck.py` (all lowercase).
