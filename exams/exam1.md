@@ -111,3 +111,6 @@ It is possible to double count a detection for `Year` and `Date`.  For example, 
 
 You should not need to install `pip` only use the default python installation.  Also you are on your own with python installation.  FWIW, Windows users should only use the 2.7.9 installation from `https://www.python.org/downloads/` and Mac users no need to install anything.  Linux users, you might need to install 2.7.9 via `yum` or `aptitude` -- in most cases, Linux systems include python as part of the default install.
 
+> Does this "CS594-spring-2015​" is considered a valid Year 2015 and valid season Spring?
+
+I see `spring` (case insensitive) and I also see `2015`.  What do you see?
