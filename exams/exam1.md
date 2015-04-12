@@ -91,5 +91,23 @@ Date: 12
 
 The number after the colon `:` denotes how many of the occurrences of that data is discovered in the document.  In the above example, we witness four references to `Seasons` in a document, twelve references to `Year`, two references `Day of the week`, two references to `Time of day`, and twelve references to `Date`.
 
+> Are we restricted to using Python's standard modules or can we use any python library? To be more specific, can I use Requests (http://docs.python-requests.org/en/latest/) and Beautiful Soup (http://www.crummy.com/software/BeautifulSoup/) libraries.
 
+No you should use the standard python distribution.  Do not use anything exotic for this assignment.  For your homework and project, you have more options.
+
+> Do you mean rather some measure of time, per the categories you mention in #3 ?  A date is simply 00/00/0000.
+
+The `Date` category is when you detect `x/x/xxxx`.  Note that `x` can be one or two digits (for day and month).  `xxxx` must be four digits for year.  So `2/2/15`, according to the specification, is not a valid date and should be ignored.  However, I will accept it if it makes your coding easier.
+
+> In other words, the program should search for instances of text strings that represent (a) any one of the 7 days of the week, any one of the 4 seasons, any time expression, etc.
+
+It should detect all six possible date configuration as specified and tally up the count for each of the categories.
+
+> Would the assignment be exactly the same were you to leave out #2 ?  How is #2 not a subset of #3?  
+
+It is possible to double count a detection for `Year` and `Date`.  For example, `2/2/2015` will increase the `Year` counter by one *and* the `Date` counter by one.  However, `2/2/1999` will only increase the `Date` counter.
+
+> I'm stuck at Install pip. How to proceed ahead?
+
+You should not need to install `pip` only use the default python installation.  Also you are on your own with python installation.  FWIW, Windows users should only use the 2.7.9 installation from `https://www.python.org/downloads/` and Mac users no need to install anything.  Linux users, you might need to install 2.7.9 via `yum` or `aptitude` -- in most cases, Linux systems include python as part of the default install.
 
