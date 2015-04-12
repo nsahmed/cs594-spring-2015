@@ -8,7 +8,7 @@ Answer each of the following questions carefully.  It is not enough to "quote" t
 
 1. What is _Data Gravity_ according to the article *Cognitive Augmentation*?  Provide an example of _Data Gravity_.
 
-2. What are some of the impetuses for the proliferation of the _Graph Databases_ technologies.
+2. What are some of the [impetuses](http://www.merriam-webster.com/dictionary/impetus) behind the proliferation of the _Graph Databases_ technologies.
 
 3. According to Ben Lorica, the article "Streamlining Feature Engineering" (p. 53) references the [Data Science Pipeline](http://radar.oreilly.com/2013/09/data-analysis-just-one-component-of-the-data-science-workflow.html) with the final step "Story-Telling".  How does that map to our data science approach?  In particular, focus on the last part: Visualization.
 
