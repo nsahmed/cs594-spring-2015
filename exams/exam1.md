@@ -37,7 +37,7 @@ Answer the following multiple choice questions.  Please refer to the syllabus if
 Consinder the following URL:
 
 ```
-https://github.com/csula/cs594-spring-2015/blob/master/Syllabus.md
+https://raw.githubusercontent.com/csula/cs594-spring-2015/master/Syllabus.md
 ```
 
 Write a python program that (1) reads the contents of the above URL, (2) detect the presence of dates, and (3) count the number of events for each of the following categories:
