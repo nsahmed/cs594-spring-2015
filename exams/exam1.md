@@ -74,13 +74,11 @@ You only need the default python install version 2.7.x.  Do not use python 3.x
 
 You will upload `answer.txt` and `data_duck.py` to CSNS.  Note that the file names as specified are `answer.txt` and `data_duck.py` (all lowercase).
 
-> I have wanted to confirm whether I understood the question for Programming Part correctly or not.
-
->> Is this "Sunday 08:00 AM to 9:10 AM" under logistics section on URL mentioned considered date?
+> Is this "Sunday 08:00 AM to 9:10 AM" under logistics section on URL mentioned considered date?
 
 I would say that you have one `Day of the week` and two `Time of day`
 
->> For each of the date occurences on that page, we have to report in following format ?
+> For each of the date occurences on that page, we have to report in following format ?
 
 ```
 Seasons: 4 
