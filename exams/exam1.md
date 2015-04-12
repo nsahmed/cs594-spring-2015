@@ -73,3 +73,25 @@ You only need the default python install version 2.7.x.  Do not use python 3.x
 > Are we going to upload at csns or we are going to mail you?
 
 You will upload `answer.txt` and `data_duck.py` to CSNS.  Note that the file names as specified are `answer.txt` and `data_duck.py` (all lowercase).
+
+> I have wanted to confirm whether I understood the question for Programming Part correctly or not.
+
+>> Is this "Sunday 08:00 AM to 9:10 AM" under logistics section on URL mentioned considered date?
+
+I would say that you have one `Day of the week` and two `Time of day`
+
+>> For each of the date occurences on that page, we have to report in following format ?
+
+```
+Seasons: 4 
+Year: 12
+Month: 2
+Day of the Week: 2
+Time of day: 2
+Date: 12
+```
+
+The number after the colon `:` denotes how many of the occurrences of that data is discovered in the document.  In the above example, we witness four references to `Seasons` in a document, twelve references to `Year`, two references `Day of the week`, two references to `Time of day`, and twelve references to `Date`.
+
+
+
