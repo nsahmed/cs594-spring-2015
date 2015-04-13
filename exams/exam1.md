@@ -122,3 +122,7 @@ You can if it's part of the default install.
 > "detect the presence of dates"
 
 It means that you should detect that some kind of date or time format is presence in the text.  Once you've detected them, count them up.
+
+> Is it ok to use regular expression in date?
+
+Yes.  It would be difficult to do this without regex.
