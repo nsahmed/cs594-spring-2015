@@ -118,3 +118,7 @@ I see `spring` (case insensitive) and I also see `2015`.  What do you see?
 > Can we use dateutil library to extract dates?
 
 You can if it's part of the default install.
+
+> "detect the presence of dates"
+
+It means that you should detect that some kind of date or time format is presence in the text.  Once you've detected them, count them up.
