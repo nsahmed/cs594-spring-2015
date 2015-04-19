@@ -6,7 +6,7 @@ Your objective is to identify a data domain that your team will explore *and* yo
 
 ## Deliverable
 
-Your team will present your first homework assignment on 22 April 2015.
+Your team will present your first homework assignment on 26 April 2015.
 
 ## Presentation 
 
