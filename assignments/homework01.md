@@ -10,6 +10,7 @@ The objectives of this assigment are to:
 ## Deliverable
 
 Your team will present your first homework assignment on 26 April 2015.
+<<<<<<< HEAD
 
 ## Homework 1 Demo & Presentation
 
@@ -46,6 +47,8 @@ Output from your program can be saved to a plain text file or displayed to the s
 Are you answering one of the three types of questions from above?  How, Why or What if?  If so then yes.  Otherwise, not likely.
 
 > So far we have not needed to write code to pull this data, although we will eventually code for cleaning up the data and modeling it for our cross domain recommender system. Will showing the data we've acquired be sufficient?
+=======
+>>>>>>> 3299f0bf31c20076d3e82e2924372c6f1b58b2b7
 
 You will need to show code (automation).  You simply cannot click for your data.
 
