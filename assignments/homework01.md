@@ -57,4 +57,12 @@ I like the approach.  But you have to answer the 2nd order question.
 
 As I've mentioned in class.  Doing stock analysis using big data is not trivial.  Your project, if focus on "technical analysis," is virtually impossible given the time constraint and will require complex mathematical background.  If you're planning to do "fundamental analysis" I might be ok with it.  However, I think that you will have a tough time because without a good question, the domain is  too broad.  Instead, I recommend that you focus on an aspect of fundamental analysis.  For example searching for news on companies and correlate positive news from negative news to market price.  Using this tool, you can predict the direction of a stock.
 
+> i and my partner have made project on twitter is the topic good?
 
+On the surface yes.  You can work with twitter data.  The bigger question remains, what data are you trying to uncover?  What is the underlying question?  Does it answer one of the three?
+
+1. How __ ?
+2. Why __ ?
+3. What if __?
+
+If your project meets the above criteria, then yes proceed..
