@@ -55,6 +55,6 @@ I like the approach.  But you have to answer the 2nd order question.
 
 > We are probably going to analyze which stock to buy or not by analyzing the up n down in the prices. Also if you have any idea to increase the complexity of analysis let us know.
 
-As I've mentioned in class.  Doing stock analysis on big data is not trivial.  Your project if focus on "technical analysis" is virtually impossible give the time constraint and required complex mathematical background.  If you're planning to do "fundamental analysis" I might be ok with it.  However, I think that you will have a tough time because the question and domain is too broad.  Instead focus on an aspect of fundamental analysis.  For example searching for news on companies and correlate positive news from negative news to market price.  Using this tool, you can predict the direction of a stock.
+As I've mentioned in class.  Doing stock analysis using big data is not trivial.  Your project, if focus on "technical analysis," is virtually impossible given the time constraint and will require complex mathematical background.  If you're planning to do "fundamental analysis" I might be ok with it.  However, I think that you will have a tough time because without a good question, the domain is  too broad.  Instead, I recommend that you focus on an aspect of fundamental analysis.  For example searching for news on companies and correlate positive news from negative news to market price.  Using this tool, you can predict the direction of a stock.
 
 
