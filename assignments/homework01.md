@@ -66,3 +66,9 @@ On the surface yes.  You can work with twitter data.  The bigger question remain
 3. What if __?
 
 If your project meets the above criteria, then yes proceed..
+
+> Is there any tool in python by which i can scrap data from html page.(just title) from the below link.?
+
+I am sure there is one.  You'd need to do the research and find the right one.  This is part of the homework assignment.
+
+
