@@ -54,9 +54,13 @@ The schedule below is tentative and is subject to change.
 
 * **4/26/2015** Data Storage.  Technologies covered: SQL, NoSQL, JSON, and other storage technologies.  Assignment: Data Storage.
 
-* **5/3/2015** We will not meet today.  There will be an online quiz (available 1000 Sunday morning. Due 2359 Sunday evening).  Please submit `answer.txt` and `data_antelope.py` to CSNS. [**Quiz 2**] 
+* **5/3/2015** We will not meet today.  However, please watch these two videos on datascience:
 
-* **5/10/2015** Data Analysis. part 1. Technologies covered: Map Reduce and SPARK.
+1. https://www.youtube.com/watch?v=SULKL7TMRsU  -- this video focuses on python and mongodb
+
+2. https://www.youtube.com/watch?v=jKBwGlYb13w -- data analysis using python
+
+* **5/10/2015** Data Analysis. We will have a short quiz on the videos (listed above) and the class notes lecture03.md and lecture04.pdf.  The quiz will be 10 short answers.  Lecture: part 1. Technologies covered: Map Reduce and SPARK.
 
 * **5/17/2015** Data Analysis: part 2. We will have an in class quiz on data analysis [**Quiz 3**]. Assignment: Data Analytic models.
 
