@@ -54,16 +54,12 @@ The schedule below is tentative and is subject to change.
 
 * **4/26/2015** Data Storage.  Technologies covered: SQL, NoSQL, JSON, and other storage technologies.  Assignment: Data Storage.
 
-* **5/3/2015** We will not meet today.  However, please watch these two videos on datascience:
+* **5/3/2015** We will not meet today.  Regarding [lecture04.pdf](https://github.com/csula/cs594-spring-2015/raw/master/notes/lecture04.pdf), please ignore the "Learn Latex" directive on the last slide.  BTW, you can get a free [Graph Databases](http://neo4j.com/books/graph-databases/?utm_source=GPPC&gclid=CM3XrOyfocUCFdKIfgodaKwA2A) book from O'Reilly.  You will not be quized on this book; however, do take advantage of the offer.  Finally, please watch these two videos on datascience:
 
   * [MongoDB and Python](https://www.youtube.com/watch?v=SULKL7TMRsU)
 
   * [Awesome Big Data Algorithms](https://www.youtube.com/watch?v=jKBwGlYb13w)
 
-
-Regarding lecture04.pdf, please ignore the "Learn Latex" directive on the last slide of lecture04.pdf :-)
-
-You can get a free [Graph Databases](http://neo4j.com/books/graph-databases/?utm_source=GPPC&gclid=CM3XrOyfocUCFdKIfgodaKwA2A).  You will not be quized on this book; however, do take advantage of the offer.
 
 
 * **5/10/2015** Data Analysis. We will have a short quiz on the videos (listed above) and the class notes lecture03.md and lecture04.pdf.  The quiz will be 10 short answers.  Lecture: part 1. Technologies covered: Map Reduce and SPARK.
