@@ -56,12 +56,14 @@ The schedule below is tentative and is subject to change.
 
 * **5/3/2015** We will not meet today.  However, please watch these two videos on datascience:
 
-** https://www.youtube.com/watch?v=SULKL7TMRsU  -- this video focuses on python and mongodb
-** https://www.youtube.com/watch?v=jKBwGlYb13w -- data analysis using python
+  * [MongoDB and Python](https://www.youtube.com/watch?v=SULKL7TMRsU)
 
-You can ignore the "Learn Latex" directive on the last slide of lecture04.pdf :-)
+  * [Awesome Big Data Algorithms](https://www.youtube.com/watch?v=jKBwGlYb13w)
 
-Note also that you can get a free [Graph Databases](http://neo4j.com/books/graph-databases/?utm_source=GPPC&gclid=CM3XrOyfocUCFdKIfgodaKwA2A).  You will not be quized on this book; however, do take advantage of the offer.
+
+Regarding lecture04.pdf, please ignore the "Learn Latex" directive on the last slide of lecture04.pdf :-)
+
+You can get a free [Graph Databases](http://neo4j.com/books/graph-databases/?utm_source=GPPC&gclid=CM3XrOyfocUCFdKIfgodaKwA2A).  You will not be quized on this book; however, do take advantage of the offer.
 
 
 * **5/10/2015** Data Analysis. We will have a short quiz on the videos (listed above) and the class notes lecture03.md and lecture04.pdf.  The quiz will be 10 short answers.  Lecture: part 1. Technologies covered: Map Reduce and SPARK.
