@@ -40,4 +40,18 @@ EDA Exploratory Data Analysis
 
 EDA leads to model building
 
+~~~
+
+Detect similar faces in a crowd.  Let us take the example here: https://realpython.com/blog/python/face-recognition-with-python/
+
+1. Extract facial image(s)
+2. Extract features using PCA -- or similar techniques
+3. Do dot product to calculate similarities
+
+Detect race base on a collection of images using machine learning approach
+1. Gather a sample size
+2. Tag the sample size
+3. Apply machine learning to derive features
+4. Apply features (from step 3) on a new image
+
 
