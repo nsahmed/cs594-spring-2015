@@ -53,6 +53,5 @@ Detect race base on a collection of images using machine learning approach
 2. Tag the sample size
 3. Apply machine learning to derive features
 4. Apply features (from step 3) on a new image
-5. 
 
 
