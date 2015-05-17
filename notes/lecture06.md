@@ -40,7 +40,7 @@ EDA Exploratory Data Analysis
 
 EDA leads to model building
 
-~~~
+---
 
 Detect similar faces in a crowd.  Let us take the example here: https://realpython.com/blog/python/face-recognition-with-python/
 
