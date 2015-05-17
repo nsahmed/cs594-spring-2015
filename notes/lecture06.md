@@ -49,6 +49,7 @@ Detect similar faces in a crowd.  Let us take the example here: https://realpyth
 3. Do dot product to calculate similarities
 
 Detect race base on a collection of images using machine learning approach
+
 1. Gather a sample size
 2. Tag the sample size
 3. Apply machine learning to derive features
