@@ -61,9 +61,9 @@ The schedule below is tentative and is subject to change.
 
 * **5/10/2015** Data Analysis. We will have a short quiz [**Quiz 2**] on the videos (listed above) and the class notes lecture03.md and lecture04.pdf.  The quiz will consist of 10 short answer questions.  Lecture: part 1. Technologies covered: Map Reduce and SPARK.  Assignment: Data Storage.
 
-* **5/17/2015** Data Analysis: part 2. We will have an in class quiz on data analysis [**Quiz 3**]. Assignment: Data Analytic models.
+* **5/17/2015** Data Analysis: part 2. We will have an in class quiz on data analysis. Assignment: Data Analytic models.
 
-* **5/24/2015** Data Visiualization. Building the dash-board. Assignment: Visualization.
+* **5/24/2015** Data Visiualization. Building the dash-board. Assignment: Visualization. [**Quiz 3**]
 
 * **5/31/2015** Project Demonstration
 
