@@ -25,3 +25,13 @@ Only one member of the team will need to upload the presentation.  Your team wil
 ### Grading Rubric
 
 Your team must have three slides for full credit; and the slides must address the task mentioned in the deliverable.
+
+* * *
+
+> Our team came up with an idea that using Rotten Tomatoes movie website api, then we calculate standard deviation of the user rating. If the individual user 's rating fell outside the range of the standard deviation, we filter out the user rating(we assume that user is bias) . This will allow us to get a more precise and accurate review?? is this good enough?? or we are going a wrong direction?
+
+It's fine.  But I don't think that it's "enough"  -- your story should be be more than just a filter.
+
+> Can we use textblob library for sentiment analysis of tweets?
+
+Absolutely no problem.  The point of the class is not to re-invent the wheel.
