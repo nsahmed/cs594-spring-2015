@@ -28,6 +28,8 @@ Your team must have three slides for full credit; and the slides must address th
 
 * * *
 
+Below are answers to students' questions on the third assignment.  Check back often as I will be updating this page throughout the week:
+
 > Our team came up with an idea that using Rotten Tomatoes movie website api, then we calculate standard deviation of the user rating. If the individual user 's rating fell outside the range of the standard deviation, we filter out the user rating(we assume that user is bias) . This will allow us to get a more precise and accurate review?? is this good enough?? or we are going a wrong direction?
 
 It's fine.  But I don't think that it's "enough"  -- your story should be be more than just a filter.
