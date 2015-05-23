@@ -37,3 +37,9 @@ It's fine.  But I don't think that it's "enough"  -- your story should be be mor
 > Can we use textblob library for sentiment analysis of tweets?
 
 Absolutely no problem.  The point of the class is not to re-invent the wheel.
+
+> Do we need to present how we are going to apply data analytics (mean, mode and median) on our data to answer our questions only or we need to implement it as well for this sunday presentation?
+
+On slide #2, you will need to state how your team _has_ calculated statistic data _and_ present your result.  So yes, you will need to calculate the mean, median, mode and standard deviation of your data.
+
+To be clear on slide #3, you need to show your has (or is planning to) perform data analytic to answer the research question.  This mean that you need to do one of two things: (a) to have already calculated and answered your research question using data analytic, or (b) to show a plan on how you're going to do it.
