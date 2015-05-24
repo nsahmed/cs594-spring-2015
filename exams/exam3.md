@@ -7,7 +7,7 @@ Your third exam is on the data analytic lecture and your project.  For questions
 
 2.  Let's assume that you've collected data, performed analysis, and are ready to present the result.  Provide a simple example on how your result, in the eyes of the research community, can fall trap to confirmation bias.
 
-3. When looking are your project's research question and answer, is it longitudinal study or or cross-sectional study? Please explain why.
+3. When looking at your project's research question and answer, is it longitudinal study or or cross-sectional study? Please explain why.
 
 4. For your project, describe how you employed exploratory data analysis (EDA).  Provide a specific example.
 
