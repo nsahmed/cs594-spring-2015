@@ -1,8 +1,8 @@
 # Histogram Plot Example
 
-## Problem: generate a random sample of size N and plot the histogram (with mean and standard deviation)
+**Problem:** generate a random sample of size N and plot the histogram (with mean and standard deviation)
 
-## Solution: use python numpy and matplotlib library.  See example below
+**Solution:** use python numpy and matplotlib library.  See example below
 
 ```
 """
