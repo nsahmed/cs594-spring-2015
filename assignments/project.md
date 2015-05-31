@@ -21,6 +21,8 @@ Your team will have 10 minutes to present your project.  Here are some thoughts 
 
 * The ultimate question: is this a worth product or is this toilet paper material?
 
+Please refer to the [Social Intelligence](https://github.com/csula/cs594-spring-2015/raw/master/assignments/Social-Intelligence.pptx) example slides.
+
 ### Grading Rubric
 
 Your project will be graded as followed:
