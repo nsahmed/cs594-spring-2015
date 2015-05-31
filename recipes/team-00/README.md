@@ -45,4 +45,4 @@ plt.savefig('hist.pdf', format='pdf')
 ```
 
 ## Reference:
-1. Cite your reference(s) here
+1. Source: http://matplotlib.org/1.2.1/examples/api/histogram_demo.html
