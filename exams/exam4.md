@@ -13,7 +13,7 @@ Consider [The Picture of Dorian Gray](https://www.gutenberg.org/cache/epub/174/p
 
 1. Determine the most frequently occuring word in [The Picture of Dorian Gray](https://www.gutenberg.org/cache/epub/174/pg174.txt) that is **not** a stop word.
 
-2. Do a histogram of the 100 most frequently occuring words in [The Picture of Dorian Gray](https://www.gutenberg.org/cache/epub/174/pg174.txt).  Your histogram should ignore stop words.  Be sure to annotate the the plot.
+2. Do a histogram of the 100 most frequently occuring words in [The Picture of Dorian Gray](https://www.gutenberg.org/cache/epub/174/pg174.txt).  Your histogram should ignore stop words.  Be sure to annotate the plot.
 
 Consider Mark Twain's classic works [The Adventures of Huckleberry Finn](https://www.gutenberg.org/cache/epub/76/pg76.txt) and [The Adventures of Tom Sawyer](https://www.gutenberg.org/cache/epub/74/pg74.txt), answer questions 3 and 4.
 
