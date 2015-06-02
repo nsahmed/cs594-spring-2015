@@ -7,7 +7,7 @@ You have until 5 PM Sunday to complete this exam.  Please email the instructor w
 
 ---
 
-We will use the stop words found here `http://xpo6.com/list-of-english-stop-words/` for questions 1 - 4 below.
+We will use the stop words found here `http://xpo6.com/list-of-english-stop-words/` for questions 1 - 4 below.  Please down the raw txt file from: `http://xpo6.com/wp-content/uploads/2015/01/stop-word-list.txt` which is at the bottom of the page.
 
 Consider [The Picture of Dorian Gray](https://www.gutenberg.org/cache/epub/174/pg174.txt) by Oscar Wilde, answer questions 1 and 2.
 
@@ -28,6 +28,10 @@ Consider Mark Twain's classic works [The Adventures of Huckleberry Finn](https:/
 ---
 
 ## Frequently Asked Questions (FAQ)
+
+> The page for the stopwords has 3 different lists, and there are a few errors in each.
+
+Please use `http://xpo6.com/wp-content/uploads/2015/01/stop-word-list.txt` as the official stop word list for this exam.  Note everything is in lowercase.  Hint: your text should also be in lowercase.
 
 > For exam 4 do we have to submit our code? or only the answer? 
 
