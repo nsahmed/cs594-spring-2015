@@ -25,4 +25,52 @@ Consider Mark Twain's classic works [The Adventures of Huckleberry Finn](https:/
 
 5. What is your personal contribution to the Data Science class's project? What is the most interesting finding your team uncovered as a result of your Data Science project?
 
+---
+
+> For exam 4 do we have to submit our code? or only the answer? 
+
+Please submit the following files: `most_frequent_word.py`, `histogram.py`, `common_words.py`, `unique_words.py`, `histogram.png`, and `answer.txt`. The format of your `answer.txt` should be:
+
+```
+most_frequent_word.py: homeless
+common_words.py: john professor ... is awesome etc
+unique_words.py: Tom Sawyer
+``` 
+
+> I was wanting to use PyEnchant to do some word processing for Exam4.  Would it be ok to use this library?
+
+No do not use anything other than the default Python library.  You do not need to.  Also, make sure that your code is compatible with python 2.7.x.  Do not use python 3.x -- you will not receive credit if your code does not run.  This is not negotiable.
+
+> Which libraries of python can we use?
+
+The default python library. No external libraries.
+
+> Can we use an external library?
+
+No!
+
+> What external libraries other than the default 2.7.x library can we use?
+
+None
+
+> Is it ok if we use so and so library that is not included with the 2.7.x library?
+
+No
+
+> Can we make our code only works with python 3.x and not 2.7.x?
+
+No
+
+> Should we ensure that our code works with 2.7.x?
+
+Yes
+
+> My code does not work with python 2.7.x but it works with python 3.x.  Should I worry?
+
+Yes
+
+> My friends all use python 3.x, should I do the same?
+
+No
+
 
