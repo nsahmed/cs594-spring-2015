@@ -21,11 +21,13 @@ Consider Mark Twain's classic works [The Adventures of Huckleberry Finn](https:/
 
 4. Which of the two works has more unique words?
 
-## This question will give me a good idea on how much you understand your project and what is your contribution level.
+### This question will give me a good idea on how much you understand your project and what is your contribution level.
 
 5. What is your personal contribution to the Data Science class's project? What is the most interesting finding your team uncovered as a result of your Data Science project?
 
 ---
+
+## Frequently Asked Questions (FAQ)
 
 > For exam 4 do we have to submit our code? or only the answer? 
 
