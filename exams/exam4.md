@@ -33,6 +33,10 @@ Consider Mark Twain's classic works [The Adventures of Huckleberry Finn](https:/
 
 Please use `http://xpo6.com/wp-content/uploads/2015/01/stop-word-list.txt` as the official stop word list for this exam.  Note everything is in lowercase.  Hint: your text should also be in lowercase.
 
+> It seems that there is a daily rate limit for the online text file which we have to use for exam4. So after a certain limit the IP address gets blocked for 24hrs. So is it ok to copy the contents of the book in a text file and read the text file and do further processing?
+
+You can assume that the file has been downloaded to local disk.  In fact, your program should read it from local disk.  The expected three text files should be in the same directory as the python code with the names: `pg174.txt`, `pg76.txt`, and `pg74.txt`. 
+
 > For exam 4 do we have to submit our code? or only the answer? 
 
 Please submit the following files: `most_frequent_word.py`, `histogram.py`, `common_words.py`, `unique_words.py`, `histogram.png`, and `answer.txt`. The format of your `answer.txt` should be:
