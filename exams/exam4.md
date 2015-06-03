@@ -29,6 +29,11 @@ Consider Mark Twain's classic works [The Adventures of Huckleberry Finn](https:/
 
 ## Frequently Asked Questions (FAQ)
 
+> I've question about ' apostrophe, should i count it as special character?
+if i count as special character then dorian will occur 420 time but if i don't then it will make dorian - 415 times and dorian's - 5 times.  That will make two separate words.  And it will also break don't as don.
+
+Separate them into multiple words.
+
 > The page for the stopwords has 3 different lists, and there are a few errors in each.
 
 Please use `http://xpo6.com/wp-content/uploads/2015/01/stop-word-list.txt` as the official stop word list for this exam.  Note everything is in lowercase.  Hint: your text should also be in lowercase.
