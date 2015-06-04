@@ -29,6 +29,10 @@ Consider Mark Twain's classic works [The Adventures of Huckleberry Finn](https:/
 
 ## Frequently Asked Questions (FAQ)
 
+> What is a `unique word`?
+
+A `unique word` is a word that occurs only once in the text. For example, body of text is `the green dog is bigger than the blue dog`, the unique words are: `green`, `is`, `than`, and `blue`.  However, given that `is` and `than` are `stop words`, therefore we do not count them.  So for the purpose of the exam, the unique words are: `green` and `blue`.
+
 > I've question about ' apostrophe, should i count it as special character?
 if i count as special character then dorian will occur 420 time but if i don't then it will make dorian - 415 times and dorian's - 5 times.  That will make two separate words.  And it will also break don't as don.
 
