@@ -36,7 +36,22 @@ A `unique word` is a word that occurs only once in the text. For example, body o
 > I've question about ' apostrophe, should i count it as special character?
 if i count as special character then dorian will occur 420 time but if i don't then it will make dorian - 415 times and dorian's - 5 times.  That will make two separate words.  And it will also break don't as don.
 
-Separate them into multiple words.
+Split into multiple words.
+
+> For "The Adventures of Huckleberry Finn" , on using apostrophe(') as  separator, it gives output for  10 most occurence of words as following: 
+
+```
+[('t', 2123), ('s', 1147), ('says', 637), ('got', 624), ('said', 491), ('come', 400), ('jim', 392), ('d', 374), ('didn', 361), ('don', 342)]
+```
+
+> My observation is that most occurence of words i.e. it is due to we split the word "don't" by apostrophe(') and so we getting that "t". Conceptually, its wrong . But ,coding wise it is right. 
+
+Very good question.   The simple answer is to add `t` and `s` to your stopword list.  In fact go ahead and add the entire alphabet, i.e. `a`, `b` ... `z`  You can also of course treat `don't` as a single word.  Which would contradict my instruction above.  However, in the spirit of the exam, either options are acceptable.  
+
+In summary you have two options to handle apostrophe's:
+
+1. add each of the letters of the alphabet to the stop word list, or 
+2. treat combined words with apostrophe as one word
 
 > The page for the stopwords has 3 different lists, and there are a few errors in each.
 
