@@ -29,6 +29,22 @@ Consider Mark Twain's classic works [The Adventures of Huckleberry Finn](https:/
 
 ## Frequently Asked Questions (FAQ)
 
+> I am using "matplotlib.pyplot" bar graph. 
+
+Hmm, take a look at [hist.py](https://github.com/csula/cs594-spring-2015/blob/master/recipes/team-00/hist.py)  Most of what you need is there for histogram.
+
+> Since we are displaying 100 words, the words are overlapping on graph. On zooming in, one can see specific x axis labels.
+
+Yes!  This question, although simple to accomplish, is geared to toward seeing how students solve an obviously challenging visualization problem.  I'd like to see how students address this challenge.  Note: submitting overlapping text will not result in full credit, i.e. ugly graphs not permitted.
+
+> I just wanted some clarification on question number 2. Is the histogram is supposed to show the frequency of a certain word count, or the probability of that word count. Also what should the range be for the data, should there be an bar for every word count or a range say 40-50? 
+
+I read question 2 as followed:  1. Find out how many 100 most frequently occuring words, 2. do a histogram (frequency count) plot of each of the words.
+
+> Do you want us to embed the stop words in our code or read them into a list from a txt file.
+
+Have it read from a file in the same directory call `stopwords.txt`
+
 > What is a `unique word`?
 
 A `unique word` is a word that occurs only once in the text. For example, body of text is `the green dog is bigger than the blue dog`, the unique words are: `green`, `is`, `than`, and `blue`.  However, given that `is` and `than` are `stop words`, therefore we do not count them.  So the unique words are really: `green` and `blue`.
