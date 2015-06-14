@@ -27,7 +27,9 @@ public class FlightDelaysData {
 	static String url = "https://api.enigma.io/v2/data/" + enigma_api;
 	static String url2 = url
 			+ "/us.gov.dot.rita.trans-stats.on-time-performance.2012?page=";
-/* The following attributes were considered */
+
+			/* The following attributes were considered */
+			
 	static String[] flightAttributes = { "flightdate", "flightnum",
 			"airlineid", "carrier", "originairportid", "origincityname",
 			"originstatename", "destairportid", "destcityname", "deststate",
@@ -38,11 +40,15 @@ public class FlightDelaysData {
 	static String path = "C:/Users//git/bigdata/resource/result.json";
 	
 	
-
+/* The faced a problem while omporting data using Enigma API because the API only fetches 500 rows
+    therefore, to get more number of rows we have used for loop as seen in the code block below. 
+	In th given code block, the enigma API is called 10 times (for example) and thus it is importing
+	data of 5000 rows */
+	
 	public static void main(String[] args) throws Exception {
 
 		
-		for(int i=1; i < 3; i++){
+		for(int i=1; i < 10; i++){
 		URL url = new URL(url2+i);
 		URLConnection urlConnection = url.openConnection();
 		BufferedReader in = new BufferedReader(new InputStreamReader(
